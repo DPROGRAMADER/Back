@@ -1,0 +1,11 @@
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\bin\Debug\net8.0\ProyectoPajov.Domain.deps.json
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\bin\Debug\net8.0\ProyectoPajov.Domain.dll
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\bin\Debug\net8.0\ProyectoPajov.Domain.pdb
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ProyectoPajov.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ProyectoPajov.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ProyectoPajov.Domain.AssemblyInfo.cs
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ProyectoPajov.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ProyectoPajov.Domain.dll
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\refint\ProyectoPajov.Domain.dll
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ProyectoPajov.Domain.pdb
+C:\Proyectos\BACKEND\ProyectoPajov.API\ProyectoPajov.Domain\obj\Debug\net8.0\ref\ProyectoPajov.Domain.dll
