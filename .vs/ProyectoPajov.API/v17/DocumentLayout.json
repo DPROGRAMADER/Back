@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\BACKEND\\ProyectoPajov.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8AB2D3-CA8C-4F0E-94EE-FF506F7AE839}|ProyectoPajov.API\\ProyectoPajov.API.csproj|c:\\proyectos\\backend\\proyectopajov.api\\proyectopajov.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA8AB2D3-CA8C-4F0E-94EE-FF506F7AE839}|ProyectoPajov.API\\ProyectoPajov.API.csproj|solutionrelative:proyectopajov.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8AB2D3-CA8C-4F0E-94EE-FF506F7AE839}|ProyectoPajov.API\\ProyectoPajov.API.csproj|c:\\proyectos\\backend\\proyectopajov.api\\proyectopajov.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA8AB2D3-CA8C-4F0E-94EE-FF506F7AE839}|ProyectoPajov.API\\ProyectoPajov.API.csproj|solutionrelative:proyectopajov.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Proyectos\\BACKEND\\ProyectoPajov.API\\ProyectoPajov.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProyectoPajov.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Proyectos\\BACKEND\\ProyectoPajov.API\\ProyectoPajov.API\\appsettings.Development.json",
+              "RelativeToolTip": "ProyectoPajov.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T23:39:29.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\BACKEND\\ProyectoPajov.API\\ProyectoPajov.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoPajov.API\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\BACKEND\\ProyectoPajov.API\\ProyectoPajov.API\\appsettings.json",
+              "RelativeToolTip": "ProyectoPajov.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T23:39:01.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1017,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

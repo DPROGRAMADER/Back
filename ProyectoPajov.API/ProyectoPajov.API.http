@@ -1,0 +1,6 @@
+@ProyectoPajov.API_HostAddress = http://localhost:5252
+
+GET {{ProyectoPajov.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
